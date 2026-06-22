@@ -1,6 +1,6 @@
 # GenAICurriculum-pk
 
-# Applied GenAI Curriculum (Extracted from Screenshots)
+# Applied GenAI Curriculum
 
 ## MODULE 1 — Prompt Engineering and API Integration
 
